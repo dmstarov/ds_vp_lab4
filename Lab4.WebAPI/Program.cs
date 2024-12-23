@@ -10,7 +10,7 @@ namespace Lab4.WebAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddDbContext<HouseDbContext>(options =>
+            builder.Services.AddDbContext<BasketDbContext>(options =>
                options.UseSqlServer(
                    builder.Configuration.GetConnectionString("DefaultConnection"),
                    sqlOptions => sqlOptions.EnableRetryOnFailure()

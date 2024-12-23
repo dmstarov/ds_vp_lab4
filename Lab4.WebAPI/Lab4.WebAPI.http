@@ -1,6 +1,6 @@
-@Lab4.WebAPI_HostAddress = http://localhost:5253
+@Lab4.WebAPI_HostDelivery = http://localhost:5253
 
-GET {{Lab4.WebAPI_HostAddress}}/weatherforecast/
+GET {{Lab4.WebAPI_HostDelivery}}/weatherforecast/
 Accept: application/json
 
 ###
