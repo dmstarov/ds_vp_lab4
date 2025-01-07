@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.WebAPI", "Lab4.WebAPI.csproj", "{895ECE36-14DD-41F9-80F3-A4D6F3943A60}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2.DataAccess", "..\LB2_DataAccess\Lab2.DataAccess\Lab2.DataAccess.csproj", "{777A3FD8-554C-474B-85A7-D147BE03024E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2.DataAccess", "..\Lab2.DataAccess\Lab2.DataAccess\Lab2.DataAccess.csproj", "{777A3FD8-554C-474B-85A7-D147BE03024E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
